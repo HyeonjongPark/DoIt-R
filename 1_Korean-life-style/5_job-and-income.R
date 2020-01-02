@@ -53,3 +53,8 @@ ggplot(bottom10, aes(x = reorder(job, mean_income), y = mean_income)) +
   coord_flip() + 
   ylim(0,850)
 
+
+
+
+
+
